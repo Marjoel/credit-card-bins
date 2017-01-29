@@ -12,6 +12,7 @@
 | Visa       | 4                                              | 13, 16  | ```/^4[0-9]{12,15}$/``` |
 
 _Official data from the two of the largest acquirers in the world and from the largest bank in Latin America._
+_Dados oficiais dos dois maiores adquirentes de cartões de crédito do mundo e do maior banco da América Latina._
 
 ## To do
 - [ ] Identify other credit card brands
