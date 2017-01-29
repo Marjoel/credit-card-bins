@@ -18,8 +18,8 @@ _Official data from the two of the largest acquirers in the world and from the l
 
 ## Contribute
 
-Make a repository fork, make your changes and [submit a pull request](https://github.com/Marjoel/redepay-sdk-php "Click here to create a pull request").<br>
-Is there incorrect information?? [Submit an issue](https://github.com/Marjoel/redepay-sdk-php/issues "Click here to create an issue").
+Make a repository fork, make your changes and [submit a pull request](https://github.com/Marjoel/credit-card-bins/pulls "Click here to create a pull request").<br>
+Is there incorrect information? [Submit an issue](https://github.com/Marjoel/credit-card-bins/issues "Click here to create an issue").
 
 ### Contributors
 
